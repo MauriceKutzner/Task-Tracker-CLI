@@ -10,6 +10,7 @@ lightweight tasktracker with command line input written in Python. It writes eac
 ## Installation
 
 Clone the repository or download task_tracker.py:
+https://github.com/MauriceKutzner/Task-Tracker-CLI.git
 
 ## Usage
 Simply run the program from the console and the porgram will intuitivly guide you
