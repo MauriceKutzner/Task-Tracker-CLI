@@ -7,9 +7,9 @@ lightweight tasktracker with command line input written in Python. It writes eac
 - track progress and final state for each task
 - lists tasked that are done / not done / in progress / all tasks
 
-##Installation
+## Installation
 
 Clone the repository or download task_tracker.py:
 
-##Usage
+## Usage
 Simply run the program from the console and the porgram will intuitivly guide you
